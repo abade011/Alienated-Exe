@@ -1,0 +1,106 @@
+Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x67b0)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\san\Pictures\Current Game 2003\Current Game 2003\Alienated_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\san\Pictures\Current Game 2003\Current Game 2003\Alienated_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\san\Pictures\Current Game 2003\Current Game 2003\Alienated_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\san\Pictures\Current Game 2003\Current Game 2003\Alienated_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\san\Pictures\Current Game 2003\Current Game 2003\Alienated_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\san\Pictures\Current Game 2003\Current Game 2003\Alienated_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\san\Pictures\Current Game 2003\Current Game 2003\Alienated_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\san\Pictures\Current Game 2003\Current Game 2003\Alienated_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+Platform assembly: C:\Users\san\Pictures\Current Game 2003\Current Game 2003\Alienated_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\san\Pictures\Current Game 2003\Current Game 2003\Alienated_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.426464 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.170373 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2423.
+Total: 0.452666 ms (FindLiveObjects: 0.065355 ms CreateObjectMapping: 0.038550 ms MarkObjects: 0.308704 ms  DeleteObjects: 0.039453 ms)
+
+Activated Checkpoint (-19.1, -4.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HurtPlayerOnContact.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Player Respawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Activated Checkpoint (-19.1, -4.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Activated Checkpoint (10.7, 4.3, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Activated Checkpoint (30.5, -5.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Activated Checkpoint (30.5, -5.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player Respawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Activated Checkpoint (30.5, -5.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Activated Checkpoint (50.5, 12.7, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HurtPlayerOnContact.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Player Respawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Activated Checkpoint (50.5, 12.7, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Activated Checkpoint (16.7, 17.3, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.121275 ms
+
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 649.
+Total: 0.346953 ms (FindLiveObjects: 0.021082 ms CreateObjectMapping: 0.036141 ms MarkObjects: 0.219857 ms  DeleteObjects: 0.069571 ms)
+
+Activated Checkpoint (4.2, 33.6, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.428873 ms
+
+Unloading 96 unused Assets to reduce memory usage. Loaded Objects now: 243.
+Total: 0.259613 ms (FindLiveObjects: 0.019877 ms CreateObjectMapping: 0.011143 ms MarkObjects: 0.148479 ms  DeleteObjects: 0.079811 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1e4c -> priority: 1 
